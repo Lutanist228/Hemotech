@@ -1,0 +1,1 @@
+Copyright 2018 The Cabin Project Authors (https://github.com/impallari/Cabin)
